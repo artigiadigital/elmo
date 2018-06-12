@@ -28,6 +28,5 @@ E' la componente visiva e luminosa ed è il modulo che può essere personalizzat
 
 
 
-
 Il progetto ELMO è open source: chiunque può utilizzare e/o migliorare una o più delle sue singole componenti.
 
